@@ -1,2 +1,3 @@
 Ejemplo:
-usando eclipse y git
+usando eclipse y git.
+Trying with beyond compare.
